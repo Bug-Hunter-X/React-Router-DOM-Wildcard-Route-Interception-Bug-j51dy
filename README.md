@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router DOM v6 related to wildcard routes ('*') intercepting all other routes, including nested ones, irrespective of their order of definition in the Routes component. The bug is demonstrated in `App.js` and a solution is proposed in `AppSolution.js`.
